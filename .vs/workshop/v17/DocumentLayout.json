@@ -1,0 +1,609 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\views\\landing\\first.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\views\\landing\\first.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\views\\reg\\displayform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\views\\reg\\displayform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\views\\profile\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\views\\profile\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\entities\\mvcportalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\entities\\mvcportalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\controllers\\landingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\controllers\\landingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\controllers\\regcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\controllers\\regcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\views\\profile\\viewprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\views\\profile\\viewprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\views\\reg\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\views\\reg\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\workshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\workshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\model\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\model\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\migrations\\20241013141617_company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\migrations\\20241013141617_company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\interfaces\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\interfaces\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_5M9L3AJN_MSSQLSERVER02/mvc_workshop/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\migrations\\20241008083709_mvc_initail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\migrations\\20241008083709_mvc_initail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\migrations\\20241008180004_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\migrations\\20241008180004_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\migrations\\20241009051025_aa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\migrations\\20241009051025_aa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|c:\\users\\aslam\\documents\\.net-core-bootcamp-batch-09\\chapter 8\\students\\aslam\\exercise\\workshop\\migrations\\20241010013036_jobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC53DB3D-BC59-4B7C-A1CB-8FB60EFC219E}|workshop\\workshop.csproj|solutionrelative:workshop\\migrations\\20241010013036_jobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegController.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Controllers\\RegController.cs",
+              "RelativeDocumentMoniker": "workshop\\Controllers\\RegController.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Controllers\\RegController.cs",
+              "RelativeToolTip": "workshop\\Controllers\\RegController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:41:03.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "First.cshtml",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\Landing\\First.cshtml",
+              "RelativeDocumentMoniker": "workshop\\Views\\Landing\\First.cshtml",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\Landing\\First.cshtml",
+              "RelativeToolTip": "workshop\\Views\\Landing\\First.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T15:33:07.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\Profile\\EditProfile.cshtml",
+              "RelativeDocumentMoniker": "workshop\\Views\\Profile\\EditProfile.cshtml",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\Profile\\EditProfile.cshtml",
+              "RelativeToolTip": "workshop\\Views\\Profile\\EditProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T06:34:12.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mvcPortalContext.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Entities\\mvcPortalContext.cs",
+              "RelativeDocumentMoniker": "workshop\\Entities\\mvcPortalContext.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Entities\\mvcPortalContext.cs",
+              "RelativeToolTip": "workshop\\Entities\\mvcPortalContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIA+wA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:31:20.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "workshop\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Entities\\User.cs",
+              "RelativeToolTip": "workshop\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:28:19.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DisplayForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\Reg\\DisplayForm.cshtml",
+              "RelativeDocumentMoniker": "workshop\\Views\\Reg\\DisplayForm.cshtml",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\Reg\\DisplayForm.cshtml",
+              "RelativeToolTip": "workshop\\Views\\Reg\\DisplayForm.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T15:52:25.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "workshop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "workshop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T13:00:12.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "workshop\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "workshop\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAtwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:59:22.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "workshop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "workshop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:25:29.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LandingController.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Controllers\\LandingController.cs",
+              "RelativeDocumentMoniker": "workshop\\Controllers\\LandingController.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Controllers\\LandingController.cs",
+              "RelativeToolTip": "workshop\\Controllers\\LandingController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:32:36.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\Profile\\ViewProfile.cshtml",
+              "RelativeDocumentMoniker": "workshop\\Views\\Profile\\ViewProfile.cshtml",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\Profile\\ViewProfile.cshtml",
+              "RelativeToolTip": "workshop\\Views\\Profile\\ViewProfile.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T16:27:34.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Entities\\Job.cs",
+              "RelativeDocumentMoniker": "workshop\\Entities\\Job.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Entities\\Job.cs",
+              "RelativeToolTip": "workshop\\Entities\\Job.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:03:26.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "workshop\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "workshop\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T07:42:28.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\Reg\\Login.cshtml",
+              "RelativeDocumentMoniker": "workshop\\Views\\Reg\\Login.cshtml",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\Reg\\Login.cshtml",
+              "RelativeToolTip": "workshop\\Views\\Reg\\Login.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T12:42:29.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "workshop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "workshop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T07:43:25.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "workshop\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "workshop\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T07:42:32.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Program.cs",
+              "RelativeDocumentMoniker": "workshop\\Program.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Program.cs",
+              "RelativeToolTip": "workshop\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:54:11.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "workshop.csproj",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\workshop.csproj",
+              "RelativeDocumentMoniker": "workshop\\workshop.csproj",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\workshop.csproj",
+              "RelativeToolTip": "workshop\\workshop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T08:27:41.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "workshop\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "workshop\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T07:42:41.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "workshop\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "workshop\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:31:51.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "workshop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "workshop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T07:43:23.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "workshop\\Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Entities\\Company.cs",
+              "RelativeToolTip": "workshop\\Entities\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:13:08.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Model\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "workshop\\Model\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Model\\ErrorViewModel.cs",
+              "RelativeToolTip": "workshop\\Model\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:40:08.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "workshop\\Controllers\\CompaniesController.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "workshop\\Controllers\\CompaniesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:39:41.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "workshop\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Services\\UserServices.cs",
+              "RelativeToolTip": "workshop\\Services\\UserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:07:16.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "workshop\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "workshop\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:40:37.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "workshop\\Extensions\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "workshop\\Extensions\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAlwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:24:02.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241013141617_company.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Migrations\\20241013141617_company.cs",
+              "RelativeDocumentMoniker": "workshop\\Migrations\\20241013141617_company.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Migrations\\20241013141617_company.cs",
+              "RelativeToolTip": "workshop\\Migrations\\20241013141617_company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:16:18.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Helpers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "workshop\\Helpers\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Helpers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "workshop\\Helpers\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T04:54:37.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Interfaces\\IUserServices.cs",
+              "RelativeDocumentMoniker": "workshop\\Interfaces\\IUserServices.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Interfaces\\IUserServices.cs",
+              "RelativeToolTip": "workshop\\Interfaces\\IUserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:07:34.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "workshop\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "workshop\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:32:44.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\appsettings.json",
+              "RelativeDocumentMoniker": "workshop\\appsettings.json",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\appsettings.json",
+              "RelativeToolTip": "workshop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T17:54:48.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241010013036_jobs.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Migrations\\20241010013036_jobs.cs",
+              "RelativeDocumentMoniker": "workshop\\Migrations\\20241010013036_jobs.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Migrations\\20241010013036_jobs.cs",
+              "RelativeToolTip": "workshop\\Migrations\\20241010013036_jobs.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:30:36.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_5M9L3AJN_MSSQLSERVER02/mvc_workshop/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/LAPTOP_5M9L3AJN_MSSQLSERVER02/mvc_workshop/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-08T17:11:33.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241009051025_aa.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Migrations\\20241009051025_aa.cs",
+              "RelativeDocumentMoniker": "workshop\\Migrations\\20241009051025_aa.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Migrations\\20241009051025_aa.cs",
+              "RelativeToolTip": "workshop\\Migrations\\20241009051025_aa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:10:27.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241008180004_a.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Migrations\\20241008180004_a.cs",
+              "RelativeDocumentMoniker": "workshop\\Migrations\\20241008180004_a.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Migrations\\20241008180004_a.cs",
+              "RelativeToolTip": "workshop\\Migrations\\20241008180004_a.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:00:05.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241008083709_mvc_initail.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Migrations\\20241008083709_mvc_initail.cs",
+              "RelativeDocumentMoniker": "workshop\\Migrations\\20241008083709_mvc_initail.cs",
+              "ToolTip": "C:\\Users\\aslam\\Documents\\.Net-core-Bootcamp-batch-09\\Chapter 8\\Students\\Aslam\\exercise\\workshop\\Migrations\\20241008083709_mvc_initail.cs",
+              "RelativeToolTip": "workshop\\Migrations\\20241008083709_mvc_initail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:37:11.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

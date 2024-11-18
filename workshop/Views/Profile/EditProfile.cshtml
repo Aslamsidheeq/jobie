@@ -1,0 +1,21 @@
+﻿
+@model workshop.Entities.User
+@{}
+<h1>Edit Profile</h1>
+
+<form method="post">
+    <input type="text" asp-for="Id"/>
+    <label>Name</label>
+    <input type="text"  asp-for="Name"/>
+    <label>Email</label>
+    <input type="text" asp-for="Email"/>
+    <label>Location</label>
+    <input type="text"  asp-for="Location" />
+    <label>Phone</label>
+    <input type="text"  asp-for="Phone"/>
+    <label>Password</label>
+    <input type="text"  asp-for="Password" />
+    <label>ConfirmPassword</label>
+    <input type="text"  asp-for="confirmPassword"/>
+    <input type="submit" value="Save"/>
+</form>

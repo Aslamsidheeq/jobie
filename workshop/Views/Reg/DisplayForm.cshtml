@@ -1,0 +1,59 @@
+﻿
+
+    @model workshop.Dtos.UserDto
+<style>
+    body {
+        background: #74ebd5;
+        background: -webkit-linear-gradient(to right, #74ebd5, #ACB6E5);
+        background: linear-gradient(to right, #74ebd5, #ACB6E5);
+        min-height: 100vh;
+    }
+    form {
+        display: flex;
+        flex-direction: column;
+        row-gap: 5px;
+    }
+    .form{
+        width: 400px;
+    }
+    input{
+        border-radius: 6px;
+        border: 1px solid white;
+    }
+    .log{
+        width:376px;
+    }
+        #reg-image{
+        width:400px;
+        height:400px;
+    }
+</style>
+<div class="row">
+    
+<div class="form container col-6">
+    <form method="post">
+        <label for="name">Name</label>
+        <input type="text" name="name" asp-for="Name" />
+
+        <label for="email">Email</label>
+        <input type="text" name="email" asp-for="Email" />
+
+        <label for="phone">Phone</label>
+        <input type="text" name="phone" asp-for="Phone" />
+
+        <label for="password">Password</label>
+        <input type="password" name="password" asp-for="Password" />
+
+        <label for="confirmPassword">Confirm Password</label>
+        <input type="password" name="confirmPassword" asp-for="confirmPassword" />
+        <br />
+        <input type="submit" value="Submit" />
+    </form>
+    <br />
+    <a class="log btn btn-primary" href=" reg/login">Login</a>
+</div>
+<div class="col-4" >
+    <img id="reg-image" src="/8bbc67c2-1827-4251-9b1d-6960be5da513.png"/>
+</div>
+</div>
+
